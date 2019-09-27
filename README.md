@@ -1,5 +1,2 @@
-# 嗨~我叫 蘇亭宇 Tiffany
-
-這裡是我的LearningNote~
-
-寫程式好難......
+# 嗨~這裡是蘇亭宇的Learning Note
+寫程式真的好難喔.......
