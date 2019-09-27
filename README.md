@@ -1,2 +1,5 @@
-# 嗨~這裡是蘇亭宇的Learning Note
-寫程式真的好難喔.......
+# Welcome to Ting Yu's Learning Note
+
+# About Me
+嗨~我是 蘇亭宇
+寫程式對我來說真的是一大挑戰....
