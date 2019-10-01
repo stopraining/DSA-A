@@ -1,3 +1,3 @@
 # Welcome to Ting Yu's Learning Note
-嗨~我叫蘇亭宇 ~ ;
+嗨~我叫蘇亭宇 ~ 
 寫程式對我來說真的是一大挑戰....
