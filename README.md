@@ -5,6 +5,6 @@
 
 # WEEK 1
 * linkedList
-  * [Design Linked List](.LeetCode/707 Design Linked List)
+  * [Design Linked List](.LeetCode /707Design Linked List.py)
  
  
