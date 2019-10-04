@@ -5,5 +5,6 @@
 
 # WEEK 1
 * linkedList
- * [707. Design Linked List]#LeetCode
+  * [Design Linked List](#LeetCode/707. Design Linked List)
+ 
  
