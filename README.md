@@ -4,7 +4,7 @@
 
 
 # WEEK 1
-* linkedList
+## linkedList
   * Design Linked List( /LearningNote/LeetCode/707Design Linked List.py)
  
  
