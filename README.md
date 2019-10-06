@@ -7,7 +7,7 @@
   * [LeetCode](https://github.com/stopraining/LearningNote/tree/master/LeetCode)
 
 ## WEEK 2
-### linkedList
+### [linkedList](https://github.com/stopraining/LearningNote/blob/master/intro/Linked%20List)
   * [Design Linked List](https://github.com/stopraining/LearningNote/blob/master/LeetCode/707Design%20Linked%20List.py)
  
 ## WEEK 3
