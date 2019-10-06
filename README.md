@@ -3,8 +3,8 @@
 寫程式對我來說真的是一大挑戰....
 
 
-# WEEK 1
-* linkedList
+## WEEK 1
+### linkedList
   * [Design Linked List](https://github.com/stopraining/LearningNote/blob/master/LeetCode/707Design%20Linked%20List.py)
  
  
