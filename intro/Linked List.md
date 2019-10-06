@@ -10,4 +10,5 @@
     
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/linkedlist2.jpg)        
 
-### 操作:    
+### 操作:          
+參考資料:http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html#comp
