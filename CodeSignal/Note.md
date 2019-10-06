@@ -1,6 +1,6 @@
 * bit count             
        50(十進位)=110010(二進位)                  
-       [](D:/Ting yu 的資料/東吳大學/大三/資料結構與演算法/codesignal/1.jpg)
+       ![](D:/Ting yu 的資料/東吳大學/大三/資料結構與演算法/codesignal/1.jpg)
 
 * baseCoversion          
       `def baseCoversion(n,x): `        
