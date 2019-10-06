@@ -4,7 +4,7 @@
 
 ## Practice 
   * [CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)
-  * [LeetCode]
+  * [LeetCode](https://github.com/stopraining/LearningNote/tree/master/LeetCode)
 
 ## WEEK 2
 ### linkedList
