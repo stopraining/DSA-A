@@ -5,7 +5,7 @@
          
 ### 與Array的不同:
   * 從儲存角度：(vs.Array)     
-      **記憶體位置不連續 vs. 記憶體位置連續
-      **要多少就分配多少 vs. 大部分的空間會被浪費掉
+  ** 記憶體位置不連續 vs. 記憶體位置連續
+  ** 要多少就分配多少 vs. 大部分的空間會被浪費掉
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/linkedlist2.jpg)      
 ### 操作:    
