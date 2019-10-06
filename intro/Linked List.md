@@ -15,4 +15,4 @@
    * 刪除
    * 查詢      
    
-參考資料:http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html#comp
+(參考資料:http://alrightchiu.github.io/SecondRound/linked-list-introjian-jie.html#comp)
