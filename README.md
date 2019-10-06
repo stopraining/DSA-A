@@ -5,6 +5,6 @@
 
 # WEEK 1
 ## linkedList
-  * [Design Linked List](./LeetCode/707Design Linked List.py)
+  * [Design Linked List](https://github.com/stopraining/LearningNote/blob/master/LeetCode/707Design%20Linked%20List.py)
  
  
