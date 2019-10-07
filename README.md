@@ -14,4 +14,4 @@
 ### [Stack & Queue](https://github.com/stopraining/LearningNote/blob/master/intro/Stack%20%26%20Queue.md)
 
 ## WEEK 4
-### [InsertionSort、QuickSort]()
+### [InsertionSort、QuickSort](https://github.com/stopraining/LearningNote/blob/master/intro/InsertionSort%E3%80%81QuickSort.md)
