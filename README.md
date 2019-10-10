@@ -3,7 +3,7 @@
 寫程式對我來說真的是一大挑戰....
 
 ## HomeWork
-  * [第一次]()
+  * [10/18 Quick Sort]()
 
 ## Practice 
   * [CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)
