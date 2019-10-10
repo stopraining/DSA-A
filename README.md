@@ -18,5 +18,5 @@
 
 ## WEEK 4
 ### [InsertionSort、QuickSort](https://github.com/stopraining/LearningNote/blob/master/intro/InsertionSort%E3%80%81QuickSort.md)
-  * [Insertion Sort]
-  * [QuickSort]
+  * 
+  * 
