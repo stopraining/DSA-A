@@ -2,6 +2,9 @@
 嗨 ~ 我叫蘇亭宇~           
 寫程式對我來說真的是一大挑戰....
 
+## HomeWork
+  * [第一次]()
+
 ## Practice 
   * [CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)
   * [LeetCode](https://github.com/stopraining/LearningNote/tree/master/LeetCode)
