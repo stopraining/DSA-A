@@ -3,7 +3,7 @@
 寫程式對我來說真的是一大挑戰....
 
 ## HomeWork
-  * [10/18 Quick Sort]()
+  * [10/18 Quick Sort](https://github.com/stopraining/LearningNote/blob/master/HomeWork/10.18%20Quick%20Sort)
 
 ## Practice 
   * [CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)
