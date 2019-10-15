@@ -14,9 +14,8 @@
   * [Design Linked List](https://github.com/stopraining/LearningNote/blob/master/LeetCode/707Design%20Linked%20List.py)
  
 ## WEEK 3
-### [Stack & Queue](https://github.com/stopraining/LearningNote/blob/master/intro/Stack%20%26%20Queue.md)
-
+### [Stack & Queue]
 ## WEEK 4
-### [InsertionSort、QuickSort](https://github.com/stopraining/LearningNote/blob/master/intro/InsertionSort%E3%80%81QuickSort.md)
+### [InsertionSort、QuickSort]
   * 
   * 
