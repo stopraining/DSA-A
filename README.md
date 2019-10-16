@@ -2,8 +2,8 @@
 嗨 ~ 我叫蘇亭宇~           
 寫程式對我來說真的是一大挑戰....
 
-## HomeWork(老師看這裡~~)
-  * 
+## HomeWork(老師看這裡)
+ * [10/18 hw1_Quick Sort](https://nbviewer.jupyter.org/github/stopraining/LearningNote/blob/master/HomeWork/hw1_Quick%20Sort.ipynb)
 
 ## Practice 
   * [CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)
