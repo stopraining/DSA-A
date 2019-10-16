@@ -3,7 +3,7 @@
 寫程式對我來說真的是一大挑戰....
 
 ## HomeWork(老師看這裡)
- * [10/18 hw1_Quick Sort](https://nbviewer.jupyter.org/github/stopraining/LearningNote/blob/master/HomeWork/hw1_Quick%20Sort.ipynb)
+ * [10/18 hw1_Quick Sort(nbviewer)](https://nbviewer.jupyter.org/github/stopraining/LearningNote/blob/master/HomeWork/hw1_Quick%20Sort.ipynb)
  * [10/18 hw1_流程圖](https://github.com/stopraining/LearningNote/blob/master/pic/quick%20sort%20.jpeg)
 
 ## Practice 
