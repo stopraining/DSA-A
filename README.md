@@ -3,7 +3,7 @@
 寫程式對我來說真的是一大挑戰....
 
 ## HomeWork(老師看這裡~~)
-  * [Test](https://nbviewer.jupyter.org/github/stopraining/LearningNote/blob/master/HomeWork/text.ipynb)
+  * 
 
 ## Practice 
   * [CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)
