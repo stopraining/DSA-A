@@ -4,6 +4,7 @@
 
 ## HomeWork(老師看這裡)
  * [10/18 hw1_Quick Sort]()
+ * [10/18 hw1_流程圖](https://github.com/stopraining/LearningNote/blob/master/pic/quick%20sort%20.jpeg)
 
 ## Practice 
   * [CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)
