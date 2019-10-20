@@ -19,7 +19,7 @@
 ## WEEK 3
 ### [Stack & Queue](https://github.com/stopraining/LearningNote/blob/master/intro/Stack%20%26%20Queue.md)
 ## WEEK 4
-### InsertionSort、QuickSort
+### InsertionSort & QuickSort
 ## WEEK 6
 ### Heap Sort
   
