@@ -20,6 +20,6 @@
 ### Stack & Queue
 ## WEEK 4
 ### InsertionSort、QuickSort
-## week 6
+## WEEK 6
 ### Heap Sort
   
