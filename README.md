@@ -2,7 +2,7 @@
 嗨 ~ 我是蘇亭宇         
 寫程式對我來說真的是一大挑戰....
 
-## + HomeWork
+## HomeWork
 ### 10/18
  * [hw1_Quick Sort (nbviewer網頁版)](https://nbviewer.jupyter.org/github/stopraining/LearningNote/blob/master/HomeWork/hw1_Quick%20Sort.ipynb)
  * [hw1 Quick Sort (跑不出來....)](https://github.com/stopraining/LearningNote/blob/master/HomeWork/hw1_Quick%20Sort.ipynb)
