@@ -5,7 +5,7 @@
 ## HomeWork
 ### 10/18
  * [hw1_Quick Sort (nbviewer網頁版)](https://nbviewer.jupyter.org/github/stopraining/LearningNote/blob/master/HomeWork/HW1_QuickSort.ipynb)
- * [hw1 Quick Sort (跑不出來....)](https://github.com/stopraining/LearningNote/blob/master/HomeWork/hw1_Quick%20Sort.ipynb)
+ * [hw1 Quick Sort (跑不出來....)](https://github.com/stopraining/LearningNote/blob/master/HomeWork/HW1_QuickSort.ipynb)
  * [hw1_流程圖](https://github.com/stopraining/LearningNote/blob/master/pic/quick%20sort%20.jpeg)
 
 ## Practice 
