@@ -24,5 +24,7 @@
 ### InsertionSort & QuickSort
   * 148 Sort List
 ## WEEK 6
-### Heap Sort
+### Heap Sort 
+## week 7
+### Merge Sort
   
