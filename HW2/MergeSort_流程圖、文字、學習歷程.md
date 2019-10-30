@@ -3,7 +3,7 @@
 
 
 ### 流程圖
-[圖片]()
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/MergeSort.jpeg)
 
 
 
