@@ -9,9 +9,9 @@
  * [Quick ort 流程圖](https://github.com/stopraining/LearningNote/blob/master/HW1/hw1_%E6%B5%81%E7%A8%8B%E5%9C%96.jpeg)
 ### HW2
  * [Merge Sort 程式碼]
- * [Merge Sort 流程圖、學習歷程、文字說明]
+ * [Merge Sort 流程圖、學習歷程、文字說明](https://github.com/stopraining/LearningNote/blob/master/HW2/Merge%20Sort_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E6%96%87%E5%AD%97%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.md)
  * [Heap Sort 程式碼]
- * [Heap Sort 流程圖、學習歷程、文字說明]
+ * [Heap Sort 流程圖、學習歷程、文字說明](https://github.com/stopraining/LearningNote/blob/master/HW2/Heap%20Sort_%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E6%96%87%E5%AD%97%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.md)
  * [Heap Sort & Merge Sort 比較]
 
 ## Practice 
