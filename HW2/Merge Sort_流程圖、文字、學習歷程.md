@@ -8,5 +8,8 @@
 ## 學習歷程
 
 
+(程式碼參考資料:https://stackoverflow.com/questions/18761766/mergesort-with-python)
+
+
 
 
