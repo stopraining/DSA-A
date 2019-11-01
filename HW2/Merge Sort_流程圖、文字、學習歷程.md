@@ -1,4 +1,4 @@
-# Merge Sort
+# Merge Sort 合併排序
 
 ## 文字說明
 ### 概念:
