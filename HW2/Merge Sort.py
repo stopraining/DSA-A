@@ -1,5 +1,4 @@
 def MergeSort(list):
-    print("Splitting ",list)
     if len(list) <= 1:
         return list
     else:
@@ -42,5 +41,4 @@ def merge(list,left,right):
         q+=1
         j+=1
 
-    print("Merging ",list)
     return list
