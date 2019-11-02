@@ -42,3 +42,7 @@ def merge(list,left,right):
         j+=1
 
     return list
+
+list=[4,5,8,3,7,2,9,1]
+MergeSort(list)
+
