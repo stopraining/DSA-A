@@ -1,6 +1,5 @@
 class Solution(object):
     def merge_sort(list):
-        print("Splitting ",list)
         if len(list) <= 1:
             return list
         else:
@@ -42,6 +41,5 @@ class Solution(object):
             list[j] =right[q]
             q+=1
             j+=1
-
-        print("Merging ",list)
+            
         return list
