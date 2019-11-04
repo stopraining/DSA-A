@@ -12,12 +12,14 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/MergeSort.jpeg)
 
 ## ◆學習歷程
-
+    一開始，我先寫合併的函式，而我想到用append的方式，就像第一次作業概念一樣。               
+    ![pjoto](https://github.com/stopraining/LearningNote/blob/master/pic/1.jpg)
     
     
 
 
-程式碼參考資料:                      
+
+★程式碼參考資料:                      
 https://stackoverflow.com/questions/18761766/mergesort-with-python                                          
 https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-8.php
 
