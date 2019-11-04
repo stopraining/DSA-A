@@ -38,7 +38,7 @@
 
     發現問題，雖然有比較數字，將小的放前面，但只是改數字，並非交換，導致數列呈現有重複數字的情形。
     於是，參考了網路上的人寫的(最下方有放參考資料連結)，多加了下面兩段程式碼，以達成交換效果！
-    print的部分一樣只是方便我看他的run的各階段結果
+    print的部分一樣只是方便我看run的各階段結果
     
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/11.jpg)
 
