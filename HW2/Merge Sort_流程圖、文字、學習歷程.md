@@ -13,7 +13,7 @@
 
 ## ◆學習歷程
     一開始，我先寫合併的函式，而我想到用append的方式，就像第一次作業概念一樣。               
-    ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/1.jpg)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/1.jpg)
     
     
 
