@@ -2,7 +2,7 @@
 
 ## ◆文字說明
 ### 概念:
-    將數列分割成等長的2個數，直到無法再分割(每組只剩一個數)，在合併各組數列，並且由小到大排四每組數列，直到最後合併成一個數列。
+    將數列分割成等長的2個數，直到無法再分割(每組只剩一個數)，在合併各組數列，並且由小到大排四每組數列，直到最後合併成一個數列
 ### 我的想法:            
     *Step1.寫一個分割的函式          
     *Step2.寫一個合併的函式
@@ -14,7 +14,7 @@
 ## ◆學習歷程
 
     一開始，我先寫合併的函式，而我想到用append的方式，先設兩個list，再將分半的數字分別加進兩個list(left和right)，
-    就像第一次作業概念一樣。我先把概念打下來後執行看看。        
+    就像第一次作業概念一樣。我先把概念打下來後執行看看     
     
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/1.jpg)             
  
@@ -37,9 +37,13 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/10.jpg)
 
     發現問題，雖然有比較數字，將小的放前面，但只是改數字，並非交換，導致數列呈現有重複數字的情形。
-    於是參考了網路上的人寫的(`最下方有放參考資料連結`)，多加了下面兩段程式碼，以達成交換效果
+    於是，參考了網路上的人寫的(最下方有放參考資料連結)，多加了下面兩段程式碼，以達成交換效果！
     
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/11.jpg)
+
+    成功了！ 結果顯示可以看到交換過程(螢光筆處)
+    雖然排序成功了，但要怎麼用class寫呢?? 查了一些網路上的資料還是不太懂，必須請教老師和同學了！
+
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/12.jpg)
     
     
