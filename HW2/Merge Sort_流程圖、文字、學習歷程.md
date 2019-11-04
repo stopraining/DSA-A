@@ -24,7 +24,8 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/2.jpg)                         
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/3.jpg)  
 
-    再來，我用老師上課交的概念，假設p、q分別為left和right的index，利用while迴圈，使數字排序至新的List→ N，並且將分割的函式與此函式做結合
+    再來，我用老師上課交的概念，假設p、q分別為left和right的index，利用while迴圈，使數字排序至新的List→ N，
+    並且將分割的函式與此函式做結合
     
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/7.jpg)  
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/4.jpg)
