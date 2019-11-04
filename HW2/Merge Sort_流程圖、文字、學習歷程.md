@@ -33,6 +33,11 @@
 
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/9.jpg)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/10.jpg)
+
+    發現問題，隨然有比較數字，將小的放前面，但只是改數字，並非交換，導致數列呈現有重複數字的情形
+    
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/11.jpg)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/12.jpg)
     
     
 
