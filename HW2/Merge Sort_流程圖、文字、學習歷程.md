@@ -13,10 +13,14 @@
 
 ## ◆學習歷程
 
-    *一開始，我先寫合併的函式，而我想到用append的方式，先設兩個list，再將分半的數字分別加進兩個list,就像第一次作業概念一樣。我先把概念打下來後執行看看。        
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/1.jpg)                 
-    * 確定可行後再用函式方式寫出來，且在前面用print，把每一次run的結果印出來，就可以發現List被分裂的過程          
-    (參考別人用:print("splitting",list)
+
+    一開始，我先寫合併的函式，而我想到用append的方式，先設兩個list，再將分半的數字分別加進兩個list,就像第一次作業概念一樣。我先把概念打下來後執行看看。        
+    
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/1.jpg)             
+ 
+    確定可行後再用函式方式寫出來，且在前面用print，把每一次run的結果印出來，就可以發現List被分裂的過程          
+    註:參考別人用:print("splitting",list)           
+
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/2.jpg)                         
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/3.jpg)  
     
