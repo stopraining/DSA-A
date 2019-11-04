@@ -13,7 +13,8 @@
 
 ## ◆學習歷程
 
-    一開始，我先寫合併的函式，而我想到用append的方式，先設兩個list，再將分半的數字分別加進兩個list(left和right),就像第一次作業概念一樣。我先把概念打下來後執行看看。        
+    一開始，我先寫合併的函式，而我想到用append的方式，先設兩個list，再將分半的數字分別加進兩個list(left和right)，
+    就像第一次作業概念一樣。我先把概念打下來後執行看看。        
     
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/1.jpg)             
  
@@ -23,7 +24,7 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/2.jpg)                         
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/3.jpg)  
 
-    再來，我用老師上課交的概念，假設p、q分別為left和right的index，再利用while迴圈，使數字排序至新的List→ N，並且將分割的函式與此函式做結合
+    再來，我用老師上課交的概念，假設p、q分別為left和right的index，利用while迴圈，使數字排序至新的List→ N，並且將分割的函式與此函式做結合
     
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/7.jpg)  
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/4.jpg)
@@ -34,7 +35,8 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/9.jpg)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/10.jpg)
 
-    發現問題，雖然有比較數字，將小的放前面，但只是改數字，並非交換，導致數列呈現有重複數字的情形。於是參考了網路上的人寫的(`最下方有放參考資料連結`)，多加了下面兩段程式碼，以達成交換效果
+    發現問題，雖然有比較數字，將小的放前面，但只是改數字，並非交換，導致數列呈現有重複數字的情形。
+    於是參考了網路上的人寫的(`最下方有放參考資料連結`)，多加了下面兩段程式碼，以達成交換效果
     
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/11.jpg)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/12.jpg)
