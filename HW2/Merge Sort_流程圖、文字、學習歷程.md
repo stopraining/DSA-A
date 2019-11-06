@@ -7,6 +7,7 @@
     *Step1.寫一個分割的函式          
     *Step2.寫一個合併的函式
     *Step3.將兩函式做結合
+   
     
 ## ◆流程圖
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/MergeSort.jpeg)
@@ -53,6 +54,8 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/13.jpg)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/14.jpg)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/15.jpg)
+
+    MergeSort完成~
           
 
 
