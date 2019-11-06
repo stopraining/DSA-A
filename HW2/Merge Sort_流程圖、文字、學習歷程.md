@@ -43,9 +43,12 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/11.jpg)
 
     成功了！ 結果顯示可以看到交換過程(螢光筆處)
-    雖然排序成功了，但要怎麼用class寫呢?? 查了一些網路上的資料還是不太懂，必須請教老師和同學了！
-
+    雖然排序成功了，但要怎麼用class寫呢?? 
+    
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/12.jpg)
+
+    以下為用class寫完後的最終版本~~研究了好久啊.....
+    (註:我把原本的"list"改成"data"，因為list會變色看了覺得很怪)
     
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/13.jpg)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/14.jpg)
