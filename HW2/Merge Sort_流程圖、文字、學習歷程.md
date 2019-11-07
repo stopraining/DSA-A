@@ -1,8 +1,10 @@
 # Merge Sort 合併排序
 
 ## ◆文字說明
+
 ### 概念:
     將數列分割成等長的2個數，直到無法再分割(每組只剩一個數)，在合併各組數列，並且由小到大排四每組數列，直到最後合併成一個數列
+    
 ### 我的想法:            
     *Step1.寫一個分割的函式          
     *Step2.寫一個合併的函式
@@ -25,7 +27,7 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/2.jpg)                         
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/3.jpg)  
 
-    再來，我用老師上課交的概念，假設p、q分別為left和right的index，利用while迴圈，使數字排序至新的List→ N，
+    再來，我用老師上課交的概念，假設p、q分別為left和right的index，利用while迴圈，使數字在原本的list做排序，
     並且將分割的函式與此函式做結合
     
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/7.jpg)  
@@ -56,6 +58,8 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/15.jpg)
 
     MergeSort完成~
+    
+    △ 好不容易完成了.....透過這次練習我也比較懂class的用法了！要如何用self.xxx()去呼叫自己的函式~
           
 
 
