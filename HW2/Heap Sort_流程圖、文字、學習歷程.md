@@ -43,5 +43,5 @@
       感謝助教耐心批改!排版有點亂請見諒><
 
 
-程式碼參考資料:                            
+★程式碼參考資料:                            
 https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-17.php
