@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[30]:
+# In[34]:
 
 
 class Solution(object):
@@ -10,7 +10,7 @@ class Solution(object):
         if len(data)<=1:
             final=[]
             final.insert(0,data.pop(0))
-            print("F1",final)     
+            return final   
 
         else:
             final=[]
@@ -53,10 +53,10 @@ class Solution(object):
             self.heapsort(data)
 
 
-# In[32]:
+# In[35]:
 
 
-output=Solution().heapsort([2,4,5,-13,1,22,-9])
+output=Solution().heapsort([2])
 output
 
 
