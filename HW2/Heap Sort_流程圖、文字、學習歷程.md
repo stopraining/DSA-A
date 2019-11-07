@@ -38,7 +38,8 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/22.jpg)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/23.jpg)
 
-    △寫heap sort真是個艱辛的過程啊~!!!不過終於完成了~使用迴圈上有時候還是會讓我當機，不過階段式print能幫助我理解~
+    △寫heap sort真是個艱辛的過程啊~!!!每寫一點，就會遇到一點難關卡住，不過一次又一次地解決了! 終於完成了~ 真的是絞盡腦汁啊!!!!
+      使用迴圈上有時候還是會讓我當機，不過階段式print能幫助我理解~
       感謝助教耐心批改!排版有點亂請見諒><
 
 
