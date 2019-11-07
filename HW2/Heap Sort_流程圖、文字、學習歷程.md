@@ -27,6 +27,19 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/18.jpg)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/20.jpg)
 
+    Finally!!!!!!!!!!                 
+    我少加一個迴圈! 要抽幾個數字到新的list就要跑幾次~
+    原本有out of range的問題，是因為到最後data裡面沒有數字了，是個空的List~跑data[-1]的動作就會出現錯誤
+    所以我讓data長度大於0時，繼續動作，否則直接回傳結果final
+    假使一開始data的長度只有1的話，代表不須比較，加入final後，直接回傳final
+    
+
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/22.jpg)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/23.jpg)
+
+    △寫heap sort真是個艱辛的過程啊~!!!不過終於完成了~使用迴圈上有時候還是會讓我當機，不過階段式print能幫助我理解~
+      感謝助教耐心批改!排版有點亂請見諒><
+
 
 程式碼參考資料:                            
 https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-17.php
