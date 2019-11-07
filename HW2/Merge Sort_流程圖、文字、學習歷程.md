@@ -22,13 +22,13 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/1.jpg)             
  
     確定可行後再用函式方式寫出來，且在前面用print，把每一次run的結果印出來，就可以發現List被分裂的過程。
-    註:參考別人用:print("splitting",list)           
+    (註:參考別人用:print("splitting",list) )          
 
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/2.jpg)                         
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/3.jpg)  
 
-    再來，我用老師上課交的概念，假設p、q分別為left和right的index，利用while迴圈，使數字在原本的list做排序，
-    並且將分割的函式與此函式做結合
+    再來，我用老師上課交的概念，假設p、q分別為left和right的index，利用while迴圈，起初我想用一個新的List:N，但是出現錯誤，
+    所以後來使數字在原本的list做排序，並且將分割的函式與此函式做結合
     
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/7.jpg)  
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/4.jpg)
@@ -45,8 +45,7 @@
     
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/11.jpg)
 
-    成功了！ 結果顯示可以看到交換過程(螢光筆處)
-    雖然排序成功了，但要怎麼用class寫呢?? 
+    成功了！ 結果顯示可以看到交換過程(螢光筆處)。雖然排序成功了，但要怎麼用class寫呢?? 
     
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/12.jpg)
 
