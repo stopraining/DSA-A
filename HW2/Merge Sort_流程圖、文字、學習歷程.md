@@ -39,7 +39,7 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/9.jpg)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/10.jpg)
 
-    發現問題，雖然有比較數字，將小的放前面，以[4,2]為例，只處理了第0項，變[2,2]，第1項尚未處理，所以要加下面的程式碼讓他接續下去處理~
+    發現問題，雖然有比較數字，將小的放前面，以[4,2]為例，只處理了第0項，變[2,2]，第1項尚未處理，所以要加下面的程式碼~
     附上一張我的理解圖
     (註:此段程式碼為參考別人的，連結已放在最下方)
     
