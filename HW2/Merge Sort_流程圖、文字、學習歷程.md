@@ -44,7 +44,7 @@
     (註:此段程式碼為參考別人的，連結已放在最下方)
     
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/11.jpg)
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/1.jpg)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/16.jpg)
 
     成功了！ 結果顯示可以看到交換過程(螢光筆處)。雖然排序成功了，但要怎麼用class寫呢?? 
     
