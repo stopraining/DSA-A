@@ -13,3 +13,4 @@
 ## ◆學習歷程
 
 
+參考程式碼:https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-17.php
