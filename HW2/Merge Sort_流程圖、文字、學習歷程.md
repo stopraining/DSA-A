@@ -39,11 +39,12 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/9.jpg)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/10.jpg)
 
-    發現問題，雖然有比較數字，將小的放前面，但只是改數字，並非交換，導致數列呈現有重複數字的情形。
-    於是，參考了網路上的人寫的(最下方有放參考資料連結)，多加了下面兩段程式碼，以達成交換效果！
-    print的部分一樣只是方便我看run的各階段結果
+    發現問題，雖然有比較數字，將小的放前面，以[4,2]為例，只處理了第0項，變[2,2]，第1項尚未處理，所以要加下面的程式碼讓他接續下去處理~
+    附上一張我的理解圖
+    (註:此段程式碼為參考別人的，連結已放在最下方)
     
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/11.jpg)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/1.jpg)
 
     成功了！ 結果顯示可以看到交換過程(螢光筆處)。雖然排序成功了，但要怎麼用class寫呢?? 
     
