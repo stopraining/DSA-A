@@ -1,82 +1,63 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[64]:
+# In[30]:
 
 
-def heapsort(data):
-    final=data
-    print(final)
+class Solution(object):
+    def heapsort(self,data):
     
-    if len(data)<=1:
-        num=data.pop(0)
-        print("POP",num)
-        print(final[0])
-        
-        final[0]= num
-        
-      
-           
+        if len(data)<=1:
+            final=[]
+            final.insert(0,data.pop(0))
+            print("F1",final)     
 
-    else:
-        for i in range((len(data)//2)-1,-1,-1):
-            largest=i
-            l=i*2+1
-            r=i*2+2
+        else:
+            final=[]
+            for i in range(len(data)):            #總共要加幾次數字到final裡
+                for i in range((len(data)//2)-1,-1,-1):
+                    largest=i
+                    l=i*2+1
+                    r=i*2+2
             
-            print(largest,l,r)
-            
-            if len(data)%2 == 0: #數列長度為偶數,會有out of range情況需考量
-                if data[l]==data[-1]:
-                    if data[largest]<data[l]:
-                         data[largest],data[l]=data[l],data[largest]
-                   
-                else:
-                    if data[largest]<data[l]:
-                        if data[l]>data[r]:
-                            data[largest],data[l]=data[l],data[largest]
+                    if len(data)%2 == 0: #表數列長度為偶數,會有out of range情況需考量
+                        if data[l]==data[-1]:
+                            if data[largest]<data[l]:
+                                 data[largest],data[l]=data[l],data[largest]
                         else:
-                            data[largest],data[l]=data[l],data[largest]
-                            data[largest],data[r]=data[r],data[largest]
+                            if data[largest]<data[l]:
+                                if data[l]>data[r]:
+                                    data[largest],data[l]=data[l],data[largest]
+                                else:
+                                    data[largest],data[l]=data[l],data[largest]
+                                    data[largest],data[r]=data[r],data[largest]
                     
                     
+                    if  len(data)%2 == 1:         #表數列長度為基數 ,正常運作
+                        if data[largest]<data[l]:
+                            if data[l]>data[r]:
+                                data[largest],data[l]=data[l],data[largest]
+                            else:
+                                data[largest],data[l]=data[l],data[largest]
+                                data[largest],data[r]=data[r],data[largest]
                 
-            if  len(data)%2 == 1:         #數列長度為基數 ,正常運作
-                if data[largest]<data[l]:
-                    if data[l]>data[r]:
-                        data[largest],data[l]=data[l],data[largest]
-                    else:
-                        data[largest],data[l]=data[l],data[largest]
-                        data[largest],data[r]=data[r],data[largest]
+                final.insert(0,data.pop(0))
                 
+                if len(data)>0:
+                    N=data[-1]
+                    data.insert(0,N)
+                    data.pop(-1)
+                else:
+                    return final       
                 
-        
-        
-        num=data.pop(0)
-        print("POP",num)
-        
-       
-       
-        
-        N=data[-1]      #找出數列最後一個數字把 N
-        data.insert(0,N)  #把 N 放在第一個(index=0)
-        data.pop(-1)   #再把最後的那個刪掉，不然會重覆
-        print("D2",data)
-        heapsort(data)  #把調整好的數列再回去上面的函式跑
-        
-        
-        
-        
-    return final
-    
-        
+            self.heapsort(data)
 
 
-# In[66]:
+# In[32]:
 
 
-ddd=[2,4,5,3,1,22,-9]
-heapsort(ddd)
+output=Solution().heapsort([2,4,5,-13,1,22,-9])
+output
 
 
 # In[ ]:
