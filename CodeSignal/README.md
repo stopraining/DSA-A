@@ -1,6 +1,6 @@
 * bit count             
        50(十進位)=110010(二進位)                  
-       ![image](https://github.com/stopraining/LearningNote/blob/master/pic/1.jpg)
+       ![image](https://github.com/stopraining/LearningNote/blob/master/pic/numnum.jpg)
 
 * baseCoversion          
       `def baseCoversion(n,x): `        
