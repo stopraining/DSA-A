@@ -11,9 +11,9 @@
 ## 查詢
    * 可透過下列查詢方式，遇到比目標數字大的節點時，繼續往下找
      * 查詢方式：           
-       pre-order前序 ：順序是：根、左子樹、右子樹，根排在前面                              
-       In-order 中序 ：順序是：左子樹、根、右子樹，根排在中間                                      
-       Post-order後序：順序是：左子樹、右子樹、根，根排在後面                         
+       **pre-order**前序 ：順序是：根、左子樹、右子樹，根排在前面                              
+       **In-order**中序 ：順序是：左子樹、根、右子樹，根排在中間                                      
+       **Post-order**後序：順序是：左子樹、右子樹、根，根排在後面                         
        
        ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/c.JPG)
      
