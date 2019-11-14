@@ -14,7 +14,9 @@
        例如:                              
        pre-order前序 ：順序是：根、左子樹、右子樹，根排在前面                              
        In-order 中序 ：順序是：左子樹、根、右子樹，根排在中間                                      
-       Post-order後序：順序是：左子樹、右子樹、根，根排在後面
+       Post-order後序：順序是：左子樹、右子樹、根，根排在後面                         
+       
+       ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/c.JPG)
      
     補充：以上三種遍歷，使用的是「depth-first search 深度優先查詢」，其目的是從起點抵達指定頂點(目標頂點)，在搜尋頂點時，
          先探查單一路徑，直到無法繼續前進，在折返探查下一個選項路徑
