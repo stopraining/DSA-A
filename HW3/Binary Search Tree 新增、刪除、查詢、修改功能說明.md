@@ -10,8 +10,7 @@
 
 ## 查詢
    * 可透過下列查詢方式，遇到比目標數字大的節點時，繼續往下找
-     * 查詢方式：  
-       例如:                              
+     * 查詢方式：           
        pre-order前序 ：順序是：根、左子樹、右子樹，根排在前面                              
        In-order 中序 ：順序是：左子樹、根、右子樹，根排在中間                                      
        Post-order後序：順序是：左子樹、右子樹、根，根排在後面                         
@@ -36,6 +35,6 @@
 參考資料:              
 https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%85%83%E6%90%9C%E5%B0%8B%E6%A8%B9                                  
 http://www.csie.ntnu.edu.tw/~u91029/BinaryTree.html  
-https://yotsuba1022.gitbooks.io/data-structure-note/content/binary-search-tree.html                                            
-書籍 《演算法圖鑑》
+https://yotsuba1022.gitbooks.io/data-structure-note/content/binary-search-tree.html                                                     https://algorithm.yuanbin.me/zh-tw/basics_data_structure/binary_tree.html#python                        
+書籍 《演算法圖鑑》    
 
