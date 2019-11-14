@@ -34,6 +34,6 @@
 參考資料:              
 https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%85%83%E6%90%9C%E5%B0%8B%E6%A8%B9                                  
 http://www.csie.ntnu.edu.tw/~u91029/BinaryTree.html  
-https://yotsuba1022.gitbooks.io/data-structure-note/content/binary-search-tree.html
+https://yotsuba1022.gitbooks.io/data-structure-note/content/binary-search-tree.html                                            
 書籍 《演算法圖鑑》
 
