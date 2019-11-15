@@ -47,10 +47,11 @@
    
 
 ## 修改
-
-
-
-參考資料:              
+   * 找到想要修改的節點，將其改成想改的值
+   * 此動作不會造成樹的結構改變                                           
+   
+   
+### 參考資料:              
 https://zh.wikipedia.org/wiki/%E4%BA%8C%E5%85%83%E6%90%9C%E5%B0%8B%E6%A8%B9                                  
 http://www.csie.ntnu.edu.tw/~u91029/BinaryTree.html  
 https://algorithm.yuanbin.me/zh-tw/basics_data_structure/binary_tree.html#python                        
