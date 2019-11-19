@@ -15,8 +15,8 @@
  * [Heap Sort & Merge Sort 比較](https://github.com/stopraining/LearningNote/blob/master/HW2/Heap%20Sort%20%26%20Merge%20Sort%E6%AF%94%E8%BC%83.md)
  ### HW3
  Binary Search Tree
- * [新增、刪除、查詢、修改功能說明]()
- * [流程圖與文字說明]()
+ * [新增、刪除、查詢、修改功能說明]
+ * [流程圖與文字說明]
  * [程式碼]
  
 ## Practice 
