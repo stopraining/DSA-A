@@ -12,8 +12,6 @@
     利用助教在ppt的Q&A裡面提供的測試方法~來檢驗自己有沒有對~
     
 ### ▼Insert
-
-    剛開始忘了return val,所以一直出現False~!想了一下才想到~
     
   
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst1.jpg)
