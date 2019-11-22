@@ -8,9 +8,9 @@
 # 流程圖
 
 
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst7.jpg)
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst8.jpg)
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst9.jpg)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst8.JPG)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst9.JPG)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst7.JPG)
 
 # 學習歷程
 
