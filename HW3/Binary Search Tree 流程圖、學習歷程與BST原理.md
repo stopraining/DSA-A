@@ -6,6 +6,10 @@
   
   
 # 流程圖
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst7.jpg
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst8.jpg
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst9.jpg
+
 # 學習歷程
 
     按照助教給的範例程式碼來寫~ 我有參考老師上課教的~ 畫圖邊想邊打code! 
