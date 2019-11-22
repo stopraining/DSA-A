@@ -33,7 +33,23 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst3.jpg)
 
 
+### ▼Delete
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst11.jpg)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst13.jpg)
 
-★參考資料:               
+### ▼Modify
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst12.jpg)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst14.jpg)
+
+
+
+
+
+
+
+★程式碼參考資料: 
+https://cppsecrets.com/users/859710057545452565764103109971051084699111109/Python-program-to-delete-an-element-into-AVL-Tree.php        
+https://www.itread01.com/content/1542339850.html              
+https://www.geeksforgeeks.org/how-to-handle-duplicates-in-binary-search-tree/              
 老師上課程式碼                
 
