@@ -47,7 +47,7 @@
 
 
 
-★程式碼參考資料: 
+★程式碼參考資料:                            
 https://cppsecrets.com/users/859710057545452565764103109971051084699111109/Python-program-to-delete-an-element-into-AVL-Tree.php        
 https://www.itread01.com/content/1542339850.html              
 https://www.geeksforgeeks.org/how-to-handle-duplicates-in-binary-search-tree/              
