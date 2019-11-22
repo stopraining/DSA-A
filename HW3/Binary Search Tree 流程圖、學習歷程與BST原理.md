@@ -34,12 +34,12 @@
 
 
 ### ▼Delete
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst11.jpg)
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst13.jpg)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst11.JPG)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst13.JPG)
 
 ### ▼Modify
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst12.jpg)
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst14.jpg)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst12.JPG)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bst14.JPG)
 
 
 
