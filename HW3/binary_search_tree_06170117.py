@@ -78,10 +78,7 @@ class Solution(object):
                 root.val = a.val   
                 root.left = self.delete(root.left, temp.val)  
         return root
-        
-        
-                
-   
+    
           
     def modify(self, root, target, new_val):   
         root=self.delete(root,target)  
