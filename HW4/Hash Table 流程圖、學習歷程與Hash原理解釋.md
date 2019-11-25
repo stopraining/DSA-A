@@ -20,4 +20,5 @@
 
 ★參考資料:            
 http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html#dm              
-https://hackmd.io/@EW34LLeXTra2Oikg0WEQ5Q/HJln3jU_e?type=view
+https://hackmd.io/@EW34LLeXTra2Oikg0WEQ5Q/HJln3jU_e?type=view                 
+https://blog.techbridge.cc/2017/01/21/simple-hash-table-intro/
