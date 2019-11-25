@@ -15,7 +15,7 @@
            1. Chaining：使用**Linked list**把「Hashing到同一個slot」的資料串起來。                
            2.Open Addressing：使用Probing Method來尋找Table中「空的slot」存放資料。
    * **Division Method**:利用Modulus(mod)取**餘數**                  
-     假設Table大小為 m，定義 Hash Function為: `h(Key)=Key mod mˋ
+     假設Table大小為 m，定義 Hash Function為: `h(Key)=Key mod mˋ                  
      例如，若Table m=6,則:             
                         h(4)=2 →編號4放2號抽屜                
                         h(7)=1 →編號7放1號抽屜                
