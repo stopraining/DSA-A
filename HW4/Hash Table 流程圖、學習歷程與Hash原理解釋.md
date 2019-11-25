@@ -14,12 +14,11 @@
       解決方法:                        
       * Chaining：使用**Linked list**把「Hashing到同一個slot」的資料串起來。                
       * Open Addressing：使用Probing Method來尋找Table中「空的slot」存放資料。
-   * **Division Method**：利用Modulus(mod)取**餘數**                  
-     假設Table大小為 m，定義 Hash Function為：h(Key)=Key**mod**m                  
-     例如，若Table m=6,則：          
-                        h(4)=2 →編號4放2號抽屜        h(7)=1 →編號7放1號抽屜                
-                        h(12)=0 →編號12放0號抽屜      h(40)=4 →編號40放4號抽屜                    
-     * 優點：速度快，只要做一次除法運算，但table大小需慎選！
+   * **Division Method**：利用Modulus(mod)取**餘數**                   
+      * 優點：速度快，只要做一次除法運算，但table大小需慎選！
+     ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash_3.JPG)
+                       
+                
 ###
    
 
