@@ -2,7 +2,7 @@
 ## ◆ Hash Table
    是hash function的一個主要應用，使用hash table能夠快速的按照關鍵字尋找資料記錄。                          
    若將**bucket想像成是桌子**，而**slot就是抽屜**，為了要能更快速找到物品，透過Hash Function找到對應的抽屜(Hash Function的功能是指出「第幾個」抽屜，也就是抽屜的index)，就能保證是該Key所要找的物品。反之，如果同一個抽屜裡有兩個以上的物品時，便有可能找錯物品。
-!photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash_1.JPG)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash_1.JPG)
    
    
 
