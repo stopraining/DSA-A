@@ -27,28 +27,29 @@
 
 # 學習歷程
 
-    先import並測試看看md5~再將他寫成一個function方便之後使用
-    bucket可以任意輸入想要的大小，也就是capacity
+    先import並測試看看md5~再將他寫成一個function方便之後使用，bucket可以任意輸入想要的大小，也就是capacity
 
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash4.jpg)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash6.jpg)
 
-    contains 很重要，就是search的功能，也是檢測data是否存在的function
-    但我寫得有點亂....但可以work
+    contains 很重要，就是search的功能，也是檢測data是否存在的function，但我寫得有點亂....但可以work
 
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash8.jpg)
     
-    add的部分，我在最前面先寫了一個，如果欲新增的字串已經在裡面的，就不再加入!
-    如果add的那格是空的可以直接加進去，但是如果已經有data的話，就必須往下串
-    所以在測試的時候我找了兩個會被放在同一格的字串("tiffany","wbefbiw"都放在1)，再用contain看看"wbefbiw"是否被加入，
-    也順便檢查前面的"tiffany"會不會不小心被覆蓋掉
+    add的部分，我在最前面先寫了一個，如果欲新增的字串已經在裡面的，就不再加入! 如果add的那格是空的可以直接加進去，
+    但是如果已經有data的話，就必須往下串所以在測試的時候我找了兩個會被放在同一格的字串("tiffany","wbefbiw"都放在1)，
+    再用contain看看"wbefbiw"是否被加入，也順便檢查前面的"tiffany"會不會不小心被覆蓋掉
   
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash7.jpg)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash11.jpg)
 
-    刪除的部分，覺得比較難，所以參考了網路上的code!
+    刪除的部分，找到欲刪除的值，需全部刪除，但我add的部分已經寫了，重複的data不需再輸入
 
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash11.jpg)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash9.jpg)
+
+    用助教給的範例測資~
+    
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash12.jpg)
 
 
       
@@ -62,5 +63,6 @@ http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html#dm
 https://hackmd.io/@EW34LLeXTra2Oikg0WEQ5Q/HJln3jU_e?type=view                 
 https://blog.techbridge.cc/2017/01/21/simple-hash-table-intro/                                    
 書籍《演算法圖鑑》
-★程式碼參考資料:                         
+★程式碼參考資料:          
+https://codereview.stackexchange.com/questions/185638/find-and-delete-an-item-from-a-singly-linked-list-in-python              
 https://tbc-python.fossee.in/convert-notebook/Sams_Teach_Yourself_Data_Structures_and_Algorithms_Analysis_in_24_Hours/chapter23_1.ipynb
