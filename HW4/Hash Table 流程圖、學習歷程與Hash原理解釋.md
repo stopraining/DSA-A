@@ -25,7 +25,7 @@
    
 # 流程圖
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash15.jpg)
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash16.jpg)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash14.jpg)
 # 學習歷程
 
     先import並測試看看md5~再將他寫成一個function方便之後使用，bucket可以任意輸入想要的大小，也就是capacity
