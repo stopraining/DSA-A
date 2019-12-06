@@ -24,7 +24,7 @@
      ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash3.JPG)
    
 # 流程圖
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash17.jpg)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/hash18.jpg)
 
 # 學習歷程
 
