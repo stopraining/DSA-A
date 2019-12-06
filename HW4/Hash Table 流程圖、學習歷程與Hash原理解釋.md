@@ -63,7 +63,6 @@
 書籍《演算法圖鑑》                   
 http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html#dm              
 https://hackmd.io/@EW34LLeXTra2Oikg0WEQ5Q/HJln3jU_e?type=view                 
-https://blog.techbridge.cc/2017/01/21/simple-hash-table-intro/                                                                  
-★程式碼參考資料:          
+https://blog.techbridge.cc/2017/01/21/simple-hash-table-intro/                                                                          
 https://codereview.stackexchange.com/questions/185638/find-and-delete-an-item-from-a-singly-linked-list-in-python           
 https://tbc-python.fossee.in/convert-notebook/Sams_Teach_Yourself_Data_Structures_and_Algorithms_Analysis_in_24_Hours/chapter23_1.ipynb
