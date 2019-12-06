@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[12]:
+# In[19]:
 
 
 from Crypto.Hash import MD5
@@ -36,22 +36,22 @@ class MyHashSet:
             if self.data[index]== None:   
                 self.data[index]=new
             else:
-                cur = self.data[index]   
-                while (cur.next): 
-                    cur = cur.next
-                cur.next =  new
+                now = self.data[index]   
+                while (now.next): 
+                    now = now.next
+                now.next =  new
             
     def contains(self, key):
         index=self.md5_h(key)
-        cur = self.data[index] 
-        if cur == None:      
+        now = self.data[index] 
+        if now == None:      
             return False
-        if cur.data == key:
+        if now.data == key:
             return True
-        elif cur.next != None:
-            while (cur.next):
-                cur=cur.next
-                if cur.data==key:
+        elif now.next != None:
+            while (now.next):
+                now=now.next
+                if now.data==key:
                     return True
                 else:
                     False
@@ -60,22 +60,22 @@ class MyHashSet:
         
     def remove(self, key):
         index=self.md5_h(key)
-        cur = self.data[index]
-        pre = None
+        now = self.data[index]
+        ed = None
         
         if self.contains(key)==None:  
             return
         
-        while cur and key != cur.data:
-            pre=cur
-            cur=cur.next
+        while now and key != now.data:
+            ed=now
+            now=now.next
         
-        if not cur:
+        if not now:
             return
-        if not pre:
+        if not ed:
             self.data[index]=self.data[index].next
         else:
-            pre.next=cur.next
+            ed.next=now.next
     
         
             
