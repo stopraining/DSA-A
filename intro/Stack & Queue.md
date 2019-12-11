@@ -1,7 +1,7 @@
 ## Stack & Queue
 ### Stack 堆疊
 * 加入(Push)與刪除(Pop)在同一端
-* 先進先出(FILO)
+* 後進先出(LIFO)
 * EX.疊盤子、走迷宮
 
 ### Quene 佇列
