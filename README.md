@@ -19,7 +19,16 @@ Heap sort & Merge sort
  Binary Search Tree
  * [新增、刪除、查詢、修改功能說明](https://github.com/stopraining/LearningNote/blob/master/HW3/Binary%20Search%20Tree%20%E6%96%B0%E5%A2%9E%E3%80%81%E5%88%AA%E9%99%A4%E3%80%81%E6%9F%A5%E8%A9%A2%E3%80%81%E4%BF%AE%E6%94%B9%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.md)
  * [流程圖與文字說明](https://github.com/stopraining/LearningNote/blob/master/HW3/Binary%20Search%20Tree%20%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87BST%E5%8E%9F%E7%90%86.md)
- * [程式碼](https://github.com/stopraining/LearningNote/blob/master/HW3/binary_search_tree_06170117.py)
+ * [程式碼](https://github.com/stopraining/LearningNote/blob/master/HW3/binary_search_tree_06170117.py) 
+ ### HW4
+ Hash
+ * [流程圖、學習歷程與原理解釋](https://github.com/stopraining/LearningNote/blob/master/HW4/Hash%20Table%20%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Hash%E5%8E%9F%E7%90%86%E8%A7%A3%E9%87%8B.md)
+ * [程式碼](https://github.com/stopraining/LearningNote/blob/master/HW4/hash_table_06170117.py)
+ ### HW5
+ BFS & DFS
+ * [流程圖、學習歷程、BFS與DFS之原理與比較](https://github.com/stopraining/LearningNote/blob/master/HW5/%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%E8%88%87DFS%E4%B9%8B%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.md)
+ * [程式碼]
+
  
 ## Practice 
   * [CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)
