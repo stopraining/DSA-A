@@ -18,7 +18,7 @@
   3. 如果還存在未被發現的節點，則選擇其中一個作為源節點並重複以上過程，整個行程反覆進行直到所有節點都被存取為止
 ## 比較
 # 流程圖
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bfs4.JPG)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bfs5.JPG)
 # 學習歷程
 
 
