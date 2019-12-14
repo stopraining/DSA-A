@@ -34,6 +34,9 @@
   
 ## 比較
 # 流程圖
+▼流程圖設定為:     
+BFS → **c**當起點      
+DFS → **G**當起點
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bfs5.JPG)
 # 學習歷程
 
