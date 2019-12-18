@@ -34,7 +34,7 @@
 ## 比較
 # 流程圖
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bfs6.JPG)
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bfs8.JPG)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bfs9.JPG)
 # 學習歷程
 
 
