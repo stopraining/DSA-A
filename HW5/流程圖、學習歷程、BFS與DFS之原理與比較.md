@@ -32,11 +32,12 @@
   * EX.疊盤子、走迷宮
   
 ## 比較
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bfs11.JPG)
 # 流程圖
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bfs6.JPG)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bfs10.JPG)
 # 學習歷程
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bfs11.JPG)
+
 
 ★參考資料：       
 老師上課ppt    
