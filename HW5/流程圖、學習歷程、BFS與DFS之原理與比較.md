@@ -36,7 +36,7 @@
 ▼流程圖設定為:     
 BFS → **c**當起點      
 DFS → **G**當起點
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bfs5.JPG)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bfs7.JPG)
 # 學習歷程
 
 
