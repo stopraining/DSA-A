@@ -60,6 +60,10 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bfs18.JPG)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/bfs19.JPG)
 
+    心得:
+    這次作業自己覺得比較沒有花太多時間在上面 ~ 可能跟著老師上課一起畫圖和理解，再寫程式的時候就比較快~
+    又或是這次作業比較簡單?? 很開心我完成了~~~~
+
     
 ★參考資料：       
 老師上課ppt    
