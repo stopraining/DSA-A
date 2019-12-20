@@ -47,8 +47,20 @@ Heap sort & Merge sort
   * 148 Sort List
 ## WEEK 6
 ### Heap Sort 
-## week 7
+## WEEK 7
 ### Merge Sort
-##  week 8
+## WEEK 8
 ### Binary Search
-  
+## WEEK 10
+### Binary Search Tree
+## WEEK 11 
+### Hash Table & Red Black Tree
+## WEEK 12 
+### Breadth-First Search
+## WEEK 13
+### Depth-First Search
+## WEEK 14
+### Minimum Spanning Tree
+
+
+
