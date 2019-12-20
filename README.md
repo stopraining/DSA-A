@@ -49,4 +49,6 @@ Heap sort & Merge sort
 ### Heap Sort 
 ## week 7
 ### Merge Sort
+##  week 8
+### Binary Search
   
