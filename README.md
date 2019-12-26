@@ -39,7 +39,6 @@ Heap sort & Merge sort
 
 ## WEEK 2
 [linkedList](https://github.com/stopraining/LearningNote/blob/master/intro/Linked%20List.md)
-  * 707 Design Linked List
  
 ## WEEK 3
 [Stack & Queue](https://github.com/stopraining/LearningNote/blob/master/intro/Stack%20%26%20Queue.md)
