@@ -43,11 +43,8 @@ Heap sort & Merge sort
  
 ## WEEK 3
 [Stack & Queue](https://github.com/stopraining/LearningNote/blob/master/intro/Stack%20%26%20Queue.md)
-  * 155 Min Stack
-  * 232 Implement Queue Using Stacks
 ## WEEK 4
 InsertionSort & QuickSort
-  * 148 Sort List
 ## WEEK 6
 Heap Sort 
 ## WEEK 7
