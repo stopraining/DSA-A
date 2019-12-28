@@ -15,6 +15,10 @@
   3. 直到加了 V-1 個邊為止。**E(邊)=V(點)-1**
 
 ## 流程圖
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/dij1.JPG)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/dij2.JPG)
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/dij3.JPG)
+
 ## 學習歷程
 
 ★參考資料:                                
