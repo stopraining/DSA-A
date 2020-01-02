@@ -28,7 +28,7 @@ Heap sort & Merge sort
  BFS & DFS
  * [流程圖、學習歷程、BFS與DFS之原理與比較](https://github.com/stopraining/LearningNote/blob/master/HW5/%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81BFS%E8%88%87DFS%E4%B9%8B%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.md)
  * [程式碼](https://github.com/stopraining/LearningNote/blob/master/HW5/BFS_06170117.py)
-## HW6
+### HW6
  Dijkstra & Kruskal
  * [流程圖、學習歷程與原理說明](https://github.com/stopraining/LearningNote/blob/master/HW6/Dijkstra%26Kruskal%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.md)
  * [程式碼](https://github.com/stopraining/LearningNote/blob/master/HW6/Dijkstra_06170117.py)
