@@ -37,30 +37,43 @@ Heap sort & Merge sort
   * [CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)
   * [LeetCode](https://github.com/stopraining/LearningNote/tree/master/LeetCode)
 
-## WEEK 2
+## 課程
+
+### **Week 1**
+停課
+### **Week 2**
 [linkedList](https://github.com/stopraining/LearningNote/blob/master/intro/Linked%20List.md)
- 
-## WEEK 3
+### **Week 3**
 [Stack & Queue](https://github.com/stopraining/LearningNote/blob/master/intro/Stack%20%26%20Queue.md)
-## WEEK 4
-InsertionSort & QuickSort
-## WEEK 6
+### **Week 4**      
+InsertionSort
+### **Week 5**    
+QuickSort
+### **Week 6**    
 Heap Sort 
-## WEEK 7
+### **Week 7**    
 Merge Sort
-## WEEK 8
-Binary Search
-## WEEK 10
+### **Week 8**      
+Binary Tree
+### **Week 9**        
+講解期末考區塊鏈方案
+### **Week 10**      
 Binary Search Tree
-## WEEK 11 
+### **Week 11**            
 Hash Table & Red Black Tree
-## WEEK 12 
+### **Week 12**           
 Breadth-First Search
-## WEEK 13
+### **Week 13**          
 Depth-First Search
-## WEEK 14
+### **Week 14**          
 Minimum Spanning Tree
-## WEEK 15
+### **Week 15**            
 Shortest Path
+### **Week 16**            
+同學區塊鏈作品分享
+### **Week 17**             
+期末考
+### **Week 18**           
+停課
 
 
