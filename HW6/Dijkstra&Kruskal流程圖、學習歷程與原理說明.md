@@ -25,7 +25,6 @@
      首先最重要的還是要找出最短的距離和index，不要忘了要將它加入已走訪的list!
      
      最難的是距離比較的部分，一開始從無限變數字，就是因為任何數都比無限小，若取到的點可以讓距離更小，就改成該距離
-     用的概念是當下的點到其他點的距離來看
 
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/dij4.JPG)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/dij5.JPG)
