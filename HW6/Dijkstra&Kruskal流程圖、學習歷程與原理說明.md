@@ -23,12 +23,11 @@
 
      畫幾次流程圖後，知道要用"inf"的概念，但一開始寫很笨的用了字串，完全無法比較阿，後來才知道float("inf")
      首先最重要的還是要找出最短的距離和index，不要忘了要將它加入已走訪的list!
-
-![photo](https://github.com/stopraining/LearningNote/blob/master/pic/dij4.JPG)
-
+     
      最難的是距離比較的部分，一開始從無限變數字，就是因為任何數都比無限小，若取到的點可以讓距離更小，就改成該距離
      用的概念是當下的點到其他點的距離來看
 
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/dij4.JPG)
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/dij5.JPG)
 
      利用print看結果，可以發現跟上面自已畫的流程圖相符~
