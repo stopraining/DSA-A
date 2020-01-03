@@ -13,6 +13,9 @@
   1. 將各邊線依權值大小由小到大排列, 接著從**權值最低**的邊開始架構最小的成本擴張樹
   2. 如果加入的邊會造成迴圈則捨棄不用
   3. 直到加了 V-1 個邊為止。**E(邊)=V(點)-1**
+  
+  
+![photo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MST_kruskal_en.gif/383px-MST_kruskal_en.gif)
 
 ## 流程圖
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/dij1.JPG)
