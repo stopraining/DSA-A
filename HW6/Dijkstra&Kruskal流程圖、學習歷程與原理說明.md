@@ -42,6 +42,10 @@
 ![photo](https://github.com/stopraining/LearningNote/blob/master/pic/dij7.JPG)
 
 
+      △心得：
+      這是最後一次作業了，但我覺得這次的比前兩次難，花了比較多時間，把想法換成程式碼真的是最難的!!來不急完成Kruskal有點可惜:(
+      
+
 ★參考資料:                                
 https://zh.wikipedia.org/wiki/%E6%88%B4%E5%85%8B%E6%96%AF%E7%89%B9%E6%8B%89%E7%AE%97%E6%B3%95             
 https://zh.wikipedia.org/wiki/%E5%85%8B%E9%B2%81%E6%96%AF%E5%85%8B%E5%B0%94%E6%BC%94%E7%AE%97%E6%B3%95         
