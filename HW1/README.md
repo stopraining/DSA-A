@@ -1,4 +1,5 @@
 ## HW1
 ### 🥯Quick Sort
+#### 概念:
+     從數列中挑選一個基準點，大於基準的放一邊，小於的放一邊，如此循環最後可完成排序。
 
-![photo](https://github.com/stopraining/LearningNote/blob/master/HW1/hw1_%E6%B5%81%E7%A8%8B%E5%9C%96.jpeg)
