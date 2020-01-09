@@ -41,11 +41,11 @@ Heap sort & Merge sort
 ## 💻自主練習
 ### 🍮[CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)               
 ### 🍮[LeetCode](https://github.com/stopraining/LearningNote/tree/master/Leetcode)         
-[1_Two Sum_06170117.py](https://github.com/stopraining/LearningNote/blob/master/Leetcode/1_Two%20Sum_06170117.py)         
-[7_Reverse Integer_06170117.py](https://github.com/stopraining/LearningNote/blob/master/Leetcode/7_Reverse%20Integer_06170117.py)
-[]()
-[]()
-[]()
+* [1_Two Sum_06170117.py](https://github.com/stopraining/LearningNote/blob/master/Leetcode/1_Two%20Sum_06170117.py)         
+* [7_Reverse Integer_06170117.py](https://github.com/stopraining/LearningNote/blob/master/Leetcode/7_Reverse%20Integer_06170117.py)
+* [27_Remove Element_06170117](https://github.com/stopraining/LearningNote/blob/master/Leetcode/27_Remove%20Element_06170117.py)
+* [58_Length of Last Word_06170117.py ](https://github.com/stopraining/LearningNote/blob/master/Leetcode/58_Length%20of%20Last%20Word_06170117.py)
+* [344_Reverse String_06170117.py](https://github.com/stopraining/LearningNote/blob/master/Leetcode/344_Reverse%20String_06170117.py)
 
 ## 📚資料結構演算法課程
 
