@@ -42,12 +42,19 @@ Heap sort & Merge sort
   * [CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)
   * [LeetCode](https://github.com/stopraining/LearningNote/tree/master/LeetCode)
 
-## 📚課程
+## 📚資料結構演算法課程
 
-### **Week 1**
-停課
+### **Week 1**            
+課程介紹    
+* 計分規則     
+  * 平時作業：60%        
+  * 學期考：30%
+  * AWS or Codesignal：10%
 ### **Week 2** 
-[linkedList](https://github.com/stopraining/LearningNote/blob/master/intro/Linked%20List.md)
+linkedList                        
+[筆記](https://github.com/stopraining/LearningNote/blob/master/intro/Linked%20List.md)
+
+[老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### **Week 3**
 [Stack & Queue](https://github.com/stopraining/LearningNote/blob/master/intro/Stack%20%26%20Queue.md)
 ### **Week 4**      
