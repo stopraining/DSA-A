@@ -50,12 +50,12 @@ Heap sort & Merge sort
   * 平時作業：60%        
   * 學期考：30%
   * AWS or Codesignal：10%
-[老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vQyAFfgCNbBPBDWV_Xbahc2CtMBr_v-jfffAhaOWw2SntBRd2kJtLZZgdYoRfEZD7flCo4ilfO_msKX/pub?start=false&loop=false&delayms=3000&slide=id.g62828ec278_1_93)
+[🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vQyAFfgCNbBPBDWV_Xbahc2CtMBr_v-jfffAhaOWw2SntBRd2kJtLZZgdYoRfEZD7flCo4ilfO_msKX/pub?start=false&loop=false&delayms=3000&slide=id.g62828ec278_1_93)
 ### **🍮Week 2** 
 linkedList      
 是一種常見的資料結構，其使用node(節點)來記錄、表示、儲存資料(data)，並利用每個node中的pointer指向下一個node，藉此將多個node串連起來，形成Linked list，並以NULL來代表Linked list的終點!
-* [筆記](https://github.com/stopraining/LearningNote/blob/master/intro/Linked%20List.md)           
-* [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.p)
+* [🍳筆記](https://github.com/stopraining/LearningNote/blob/master/intro/Linked%20List.md)           
+* [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### **🍮Week 3**
 Stack & Queue        
 * Stack 堆疊：          
@@ -66,41 +66,41 @@ Stack & Queue
  1. 加入(Push)與刪除(Pop)在不同端               
  2. 先進先出(FIFO)                
  3. EX.排隊、排程
-* [筆記](https://github.com/stopraining/LearningNote/blob/master/intro/Stack%20%26%20Queue.md)         
-* [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p)
+* [🍳筆記](https://github.com/stopraining/LearningNote/blob/master/intro/Stack%20%26%20Queue.md)         
+* [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vQ1hb79im0vqpApCttGnXAFRT8SqH9HQP0b_oyVRCV8SVyiHLkHJjidYGAfxkvq468QMumFIDdTeiB-/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### **🍮Week 4**      
 InsertionSort             
 1. 將資料分成已排序、未排序兩部份         
 2. 依序由未排序中的第一筆(正處理的值)，插入到已排序中的適當位置，插入時由右而左比較，直到遇到第一個比正處理的值小的值，再插入        
 3. 比較時，若遇到的值比正處理的值大或相等，則將值往右移
-* [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vQOTMDM-5-OUaGfnLUOFVgefFwSVRplSwnbicp0CXOQrB5H8RM_1Aq8o_4JxHlncEmhjvqk3tzcoB7s/pub?start=false&loop=false&delayms=3000&slide=id.p)
+* [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vQOTMDM-5-OUaGfnLUOFVgefFwSVRplSwnbicp0CXOQrB5H8RM_1Aq8o_4JxHlncEmhjvqk3tzcoB7s/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### **🍮Week 5**    
 QuickSort       
 從數列中挑選一個基準點，大於基準的放一邊，小於的放一邊，如此循環最後可完成排序。
-* [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vSqz8sTxT4xyjgiz-htLvZd7FZ_5ZzgKf60pFEoNLU5S77JxrsGJ2vd15CdxlfLtT3g2aizHP-Ebk9b/pub?start=false&loop=false&delayms=3000&slide=id.p)            
-* [HW1](https://github.com/stopraining/LearningNote/tree/master/HW1)
+* [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vSqz8sTxT4xyjgiz-htLvZd7FZ_5ZzgKf60pFEoNLU5S77JxrsGJ2vd15CdxlfLtT3g2aizHP-Ebk9b/pub?start=false&loop=false&delayms=3000&slide=id.p)            
+* [🍳HW1](https://github.com/stopraining/LearningNote/tree/master/HW1)
 ### **🍮Week 6**    
 Heap Sort       
 將數列以樹狀結構呈現，每一個節點有兩個子節點，若子節點的數比該節點大，則交換位子，直到不用在變動時，將最上層的數抽出來，
 再把最後一個節點的數補上去最  上層，重複比較，直到將所有的數字抽出，完成排序
-* [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.p)
-* [HW2](https://github.com/stopraining/LearningNote/tree/master/HW2)
+* [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.p)
+* [🍳HW2](https://github.com/stopraining/LearningNote/tree/master/HW2)
 ### **🍮Week 7**    
 Merge Sort        
 將數列分割成等長的2個數，直到無法再分割(每組只剩一個數)，在合併各組數列，並且由小到大排四每組數列，直到最後合併成一
-* [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vToxkEzc1H1RT5MI9G941KQFBC7GO_Efn95wTqXLEdr3LDBSNcQb-M46IOC-_RzZih6IBEwwy3rWQuE/pub?start=false&loop=false&delayms=3000&slide=id.p)           
-* [HW2](https://github.com/stopraining/LearningNote/tree/master/HW2)
+* [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vToxkEzc1H1RT5MI9G941KQFBC7GO_Efn95wTqXLEdr3LDBSNcQb-M46IOC-_RzZih6IBEwwy3rWQuE/pub?start=false&loop=false&delayms=3000&slide=id.p)           
+* [🍳HW2](https://github.com/stopraining/LearningNote/tree/master/HW2)
 ### **🍮Week 8**      
 Binary Tree    
-* [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vSC3P8sGElP48mJTjqT309470SmTFBwJXWsU9hTX2hg5tVpiG4yC703qA7ibPep-Qakmm2Mw_F-ScZh/pub?start=false&loop=false&delayms=3000&slide=id.p)
+* [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vSC3P8sGElP48mJTjqT309470SmTFBwJXWsU9hTX2hg5tVpiG4yC703qA7ibPep-Qakmm2Mw_F-ScZh/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### **🍮Week 9**        
 講解期末考區塊鏈方案        
 ### **🍮Week 10**      
 Binary Search Tree        
 1.二元樹       
 2. 有新增、刪除、查詢、修改之功能   
-* [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vQgUh73yvSdxAvMH50DHWJ5lsCX8-daMxtoltU9rYW7xCmqYz2A1wOv0Vcx_F9KO5ZUvZBv3IF1TjGi/pub?start=false&loop=false&delayms=3000&slide=id.p)               
-* [HW3](https://github.com/stopraining/LearningNote/tree/master/HW3)
+* [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vQgUh73yvSdxAvMH50DHWJ5lsCX8-daMxtoltU9rYW7xCmqYz2A1wOv0Vcx_F9KO5ZUvZBv3IF1TjGi/pub?start=false&loop=false&delayms=3000&slide=id.p)               
+* [🍳HW3](https://github.com/stopraining/LearningNote/tree/master/HW3)
 ### **🍮Week 11**            
 Hash Table & Red Black Tree       
 * Hash Table：                
@@ -108,27 +108,27 @@ Hash Table & Red Black Tree
 * Red Black Tree紅黑樹:
 1. 每一條的黑色節點數要相同
 2. 比二元搜尋樹多了「旋轉」、「著色」
-* [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vT1HO9Nl475k2bR0l1x8_Tr4V5Wzx0BEqp9bpmHckvj8kTeJehhYVlOJUDVPhLQm6kjGCJ_sLMSBUw5/pub?start=false&loop=false&delayms=3000&slide=id.p)     
-* [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vRxyJRARq0BNuGJq_o2cUHIXBWrRSZrAOyXOSt9qCTSjQtyp8XqFq3VuNn3gCt3sXenOZmWLqIjcyFs/pub?start=false&loop=false&delayms=3000&slide=id.p)    
-* [HW4](https://github.com/stopraining/LearningNote/tree/master/HW4)
+* [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vT1HO9Nl475k2bR0l1x8_Tr4V5Wzx0BEqp9bpmHckvj8kTeJehhYVlOJUDVPhLQm6kjGCJ_sLMSBUw5/pub?start=false&loop=false&delayms=3000&slide=id.p)     
+* [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vRxyJRARq0BNuGJq_o2cUHIXBWrRSZrAOyXOSt9qCTSjQtyp8XqFq3VuNn3gCt3sXenOZmWLqIjcyFs/pub?start=false&loop=false&delayms=3000&slide=id.p)    
+* [🍳HW4](https://github.com/stopraining/LearningNote/tree/master/HW4)
 ### **🍮Week 12**           
 Breadth-First Search寬度優先搜尋             
 使用Queue
-* [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vSYJYXUXvGAeTZ5fknxj_-EPm3zxgy4ITdImrXzy63Y-iZgs8uwVNmOaZlnx9fUNzsbo8kphvMTa0c4/pub?start=false&loop=false&delayms=3000&slide=id.p)        
-* [HW5](https://github.com/stopraining/LearningNote/tree/master/HW5)
+* [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vSYJYXUXvGAeTZ5fknxj_-EPm3zxgy4ITdImrXzy63Y-iZgs8uwVNmOaZlnx9fUNzsbo8kphvMTa0c4/pub?start=false&loop=false&delayms=3000&slide=id.p)        
+* [🍳HW5](https://github.com/stopraining/LearningNote/tree/master/HW5)
 ### **🍮Week 13**          
 Depth-First Search            
 使用Stack
-* [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTma_vOZyE70O23KWw4I4Y78aAaT5fJSTq7Mae912kCwka_u5ZMWPoo14D86-x-57kZPbb6hAGktSW4/pub?start=false&loop=false&delayms=3000&slide=id.p)        
-* [HW5](https://github.com/stopraining/LearningNote/tree/master/HW5)
+* [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTma_vOZyE70O23KWw4I4Y78aAaT5fJSTq7Mae912kCwka_u5ZMWPoo14D86-x-57kZPbb6hAGktSW4/pub?start=false&loop=false&delayms=3000&slide=id.p)        
+* [🍳HW5](https://github.com/stopraining/LearningNote/tree/master/HW5)
 ### **🍮Week 14**          
 Minimum Spanning Tree 最小生成樹
-* [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTorNDEyhYA4ZAt5jEqOmFs2cQiUAYvkTp-R0DOn9B3c1MuUecV-a1wNakFIrJxA6AoUFGzbl3OQBIJ/pub?start=false&loop=false&delayms=3000&slide=id.p)         
-* [HW6](https://github.com/stopraining/LearningNote/tree/master/HW6) 
+* [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTorNDEyhYA4ZAt5jEqOmFs2cQiUAYvkTp-R0DOn9B3c1MuUecV-a1wNakFIrJxA6AoUFGzbl3OQBIJ/pub?start=false&loop=false&delayms=3000&slide=id.p)         
+* [🍳HW6](https://github.com/stopraining/LearningNote/tree/master/HW6) 
 ### **🍮Week 15**            
 Shortest Path 最短路徑問題
-* [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTgHO5AkHJS6iN6bnnBMMdHv6E4rabnrC0KwyTRfjad8Ab3IQjbnGvZuQOjDC9t7nKqeroiwcuasJrI/pub?start=false&loop=false&delayms=3000&slide=id.p)
-* [HW6](https://github.com/stopraining/LearningNote/tree/master/HW6) 
+* [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTgHO5AkHJS6iN6bnnBMMdHv6E4rabnrC0KwyTRfjad8Ab3IQjbnGvZuQOjDC9t7nKqeroiwcuasJrI/pub?start=false&loop=false&delayms=3000&slide=id.p)
+* [🍳HW6](https://github.com/stopraining/LearningNote/tree/master/HW6) 
 ### **🍮Week 16**            
 同學區塊鏈作品分享
 ### **🍮Week 17** 
