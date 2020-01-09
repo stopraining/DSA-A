@@ -103,7 +103,7 @@ Binary Search Tree
 * [HW3](https://github.com/stopraining/LearningNote/tree/master/HW3)
 ### **🍮Week 11**            
 Hash Table & Red Black Tree       
-* Hash Table
+* Hash Table：                
 是資料結構的一種，利用Hash Function有效率地進行數據搜尋
 * Red Black Tree紅黑樹:
 1. 每一條的黑色節點數要相同
@@ -112,20 +112,23 @@ Hash Table & Red Black Tree
 * [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vRxyJRARq0BNuGJq_o2cUHIXBWrRSZrAOyXOSt9qCTSjQtyp8XqFq3VuNn3gCt3sXenOZmWLqIjcyFs/pub?start=false&loop=false&delayms=3000&slide=id.p)    
 * [HW4](https://github.com/stopraining/LearningNote/tree/master/HW4)
 ### **🍮Week 12**           
-Breadth-First Search             
+Breadth-First Search寬度優先搜尋             
+使用Queue
 * [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vSYJYXUXvGAeTZ5fknxj_-EPm3zxgy4ITdImrXzy63Y-iZgs8uwVNmOaZlnx9fUNzsbo8kphvMTa0c4/pub?start=false&loop=false&delayms=3000&slide=id.p)        
 * [HW5](https://github.com/stopraining/LearningNote/tree/master/HW5)
 ### **🍮Week 13**          
 Depth-First Search            
+使用Stack
 * [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTma_vOZyE70O23KWw4I4Y78aAaT5fJSTq7Mae912kCwka_u5ZMWPoo14D86-x-57kZPbb6hAGktSW4/pub?start=false&loop=false&delayms=3000&slide=id.p)        
 * [HW5](https://github.com/stopraining/LearningNote/tree/master/HW5)
 ### **🍮Week 14**          
-Minimum Spanning Tree            
+Minimum Spanning Tree         
+最小生成樹
 * [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTorNDEyhYA4ZAt5jEqOmFs2cQiUAYvkTp-R0DOn9B3c1MuUecV-a1wNakFIrJxA6AoUFGzbl3OQBIJ/pub?start=false&loop=false&delayms=3000&slide=id.p)         
 * [HW6](https://github.com/stopraining/LearningNote/tree/master/HW6) 
 ### **🍮Week 15**            
-Shortest Path              
-
+Shortest Path               
+最短路徑問題
 * [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTgHO5AkHJS6iN6bnnBMMdHv6E4rabnrC0KwyTRfjad8Ab3IQjbnGvZuQOjDC9t7nKqeroiwcuasJrI/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [HW6](https://github.com/stopraining/LearningNote/tree/master/HW6) 
 ### **🍮Week 16**            
