@@ -1,8 +1,13 @@
 # Welcome to Ting Yu's Learning Note
-嗨 ~ 我是蘇亭宇         
+## 👩Introduce Myself
+嗨 ~ 我是蘇亭宇~ 我喜歡看電影，最討厭吃紅蘿蔔          
 寫程式對我來說真的是一大挑戰....
 
-## HomeWork
+## 🙁對於本課程心得
+這學期應該是大學以來最難熬的一個學期，如果要說有沒有學到東西? 一定有阿! 但是學習過程不怎麼快樂....讓我覺得很吃力，長了很多痘痘，脾氣變得暴躁，讓原本不討厭程式碼的我，開始討厭了.... 
+
+
+## 🥯HomeWork
 ### HW1
 Quick Sort
  * [程式碼 (nbviewer網頁版)](https://nbviewer.jupyter.org/github/stopraining/LearningNote/blob/master/HW1/HW1_QuickSort.ipynb)
@@ -37,11 +42,11 @@ Heap sort & Merge sort
   * [CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)
   * [LeetCode](https://github.com/stopraining/LearningNote/tree/master/LeetCode)
 
-## 課程
+## 📚課程
 
 ### **Week 1**
 停課
-### **Week 2**
+### **Week 2** 
 [linkedList](https://github.com/stopraining/LearningNote/blob/master/intro/Linked%20List.md)
 ### **Week 3**
 [Stack & Queue](https://github.com/stopraining/LearningNote/blob/master/intro/Stack%20%26%20Queue.md)
@@ -49,26 +54,35 @@ Heap sort & Merge sort
 InsertionSort
 ### **Week 5**    
 QuickSort
+[HW1](https://github.com/stopraining/LearningNote/tree/master/HW1)
 ### **Week 6**    
 Heap Sort 
+[HW2](https://github.com/stopraining/LearningNote/tree/master/HW2)
 ### **Week 7**    
 Merge Sort
+[HW2](https://github.com/stopraining/LearningNote/tree/master/HW2)
 ### **Week 8**      
 Binary Tree
 ### **Week 9**        
 講解期末考區塊鏈方案
 ### **Week 10**      
 Binary Search Tree
+[HW3](https://github.com/stopraining/LearningNote/tree/master/HW3)
 ### **Week 11**            
 Hash Table & Red Black Tree
+[HW4](https://github.com/stopraining/LearningNote/tree/master/HW4)
 ### **Week 12**           
 Breadth-First Search
+[HW5](https://github.com/stopraining/LearningNote/tree/master/HW5)
 ### **Week 13**          
 Depth-First Search
+[HW5](https://github.com/stopraining/LearningNote/tree/master/HW5)
 ### **Week 14**          
 Minimum Spanning Tree
+[HW6](https://github.com/stopraining/LearningNote/tree/master/HW6) 
 ### **Week 15**            
 Shortest Path
+[HW6](https://github.com/stopraining/LearningNote/tree/master/HW6) 
 ### **Week 16**            
 同學區塊鏈作品分享
 ### **Week 17**             
