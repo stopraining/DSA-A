@@ -122,13 +122,11 @@ Depth-First Search
 * [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTma_vOZyE70O23KWw4I4Y78aAaT5fJSTq7Mae912kCwka_u5ZMWPoo14D86-x-57kZPbb6hAGktSW4/pub?start=false&loop=false&delayms=3000&slide=id.p)        
 * [HW5](https://github.com/stopraining/LearningNote/tree/master/HW5)
 ### **🍮Week 14**          
-Minimum Spanning Tree         
-最小生成樹
+Minimum Spanning Tree 最小生成樹
 * [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTorNDEyhYA4ZAt5jEqOmFs2cQiUAYvkTp-R0DOn9B3c1MuUecV-a1wNakFIrJxA6AoUFGzbl3OQBIJ/pub?start=false&loop=false&delayms=3000&slide=id.p)         
 * [HW6](https://github.com/stopraining/LearningNote/tree/master/HW6) 
 ### **🍮Week 15**            
-Shortest Path               
-最短路徑問題
+Shortest Path 最短路徑問題
 * [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTgHO5AkHJS6iN6bnnBMMdHv6E4rabnrC0KwyTRfjad8Ab3IQjbnGvZuQOjDC9t7nKqeroiwcuasJrI/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [HW6](https://github.com/stopraining/LearningNote/tree/master/HW6) 
 ### **🍮Week 16**            
