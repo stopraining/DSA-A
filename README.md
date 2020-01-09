@@ -103,6 +103,11 @@ Binary Search Tree
 * [HW3](https://github.com/stopraining/LearningNote/tree/master/HW3)
 ### **🍮Week 11**            
 Hash Table & Red Black Tree       
+* Hash Table
+是資料結構的一種，利用Hash Function有效率地進行數據搜尋
+* Red Black Tree紅黑樹:
+1. 每一條的黑色節點數要相同
+2. 比二元搜尋樹多了「旋轉」、「著色」
 * [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vT1HO9Nl475k2bR0l1x8_Tr4V5Wzx0BEqp9bpmHckvj8kTeJehhYVlOJUDVPhLQm6kjGCJ_sLMSBUw5/pub?start=false&loop=false&delayms=3000&slide=id.p)     
 * [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vRxyJRARq0BNuGJq_o2cUHIXBWrRSZrAOyXOSt9qCTSjQtyp8XqFq3VuNn3gCt3sXenOZmWLqIjcyFs/pub?start=false&loop=false&delayms=3000&slide=id.p)    
 * [HW4](https://github.com/stopraining/LearningNote/tree/master/HW4)
