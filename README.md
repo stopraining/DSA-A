@@ -39,8 +39,13 @@ Heap sort & Merge sort
  * [程式碼](https://github.com/stopraining/LearningNote/blob/master/HW6/Dijkstra_06170117.py)
  
 ## 💻自主練習
-🍮[CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)               
-🍮[LeetCode](https://github.com/stopraining/LearningNote/tree/master/Leetcode)
+### 🍮[CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)               
+### 🍮[LeetCode](https://github.com/stopraining/LearningNote/tree/master/Leetcode)         
+[1_Two Sum_06170117.py](https://github.com/stopraining/LearningNote/blob/master/Leetcode/1_Two%20Sum_06170117.py)         
+[7_Reverse Integer_06170117.py](https://github.com/stopraining/LearningNote/blob/master/Leetcode/7_Reverse%20Integer_06170117.py)
+[]()
+[]()
+[]()
 
 ## 📚資料結構演算法課程
 
