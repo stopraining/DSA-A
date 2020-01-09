@@ -49,8 +49,8 @@ Heap sort & Merge sort
 * 計分規則     
   * 平時作業：60%        
   * 學期考：30%
-  * AWS or Codesignal：10%
-[🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vQyAFfgCNbBPBDWV_Xbahc2CtMBr_v-jfffAhaOWw2SntBRd2kJtLZZgdYoRfEZD7flCo4ilfO_msKX/pub?start=false&loop=false&delayms=3000&slide=id.g62828ec278_1_93)
+  * AWS or Codesignal：10%              
+* [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vQyAFfgCNbBPBDWV_Xbahc2CtMBr_v-jfffAhaOWw2SntBRd2kJtLZZgdYoRfEZD7flCo4ilfO_msKX/pub?start=false&loop=false&delayms=3000&slide=id.g62828ec278_1_93)
 ### **🍮Week 2** 
 linkedList      
 是一種常見的資料結構，其使用node(節點)來記錄、表示、儲存資料(data)，並利用每個node中的pointer指向下一個node，藉此將多個node串連起來，形成Linked list，並以NULL來代表Linked list的終點!
