@@ -39,8 +39,8 @@ Heap sort & Merge sort
  * [程式碼](https://github.com/stopraining/LearningNote/blob/master/HW6/Dijkstra_06170117.py)
  
 ## 💻自主練習
-  * 🐝[CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)
-  * 🐝[LeetCode](https://github.com/stopraining/LearningNote/tree/master/Leetcode)
+🐝[CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)
+🐝[LeetCode](https://github.com/stopraining/LearningNote/tree/master/Leetcode)
 
 ## 📚資料結構演算法課程
 
