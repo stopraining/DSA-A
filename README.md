@@ -39,7 +39,7 @@ Heap sort & Merge sort
  * [程式碼](https://github.com/stopraining/LearningNote/blob/master/HW6/Dijkstra_06170117.py)
  
 ## 💻自主練習
-🐝[CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)
+🐝[CodeSignal](https://github.com/stopraining/LearningNote/tree/master/CodeSignal)               
 🐝[LeetCode](https://github.com/stopraining/LearningNote/tree/master/Leetcode)
 
 ## 📚資料結構演算法課程
@@ -102,6 +102,7 @@ Minimum Spanning Tree
 * [HW6](https://github.com/stopraining/LearningNote/tree/master/HW6) 
 ### **🐝Week 15**            
 Shortest Path              
+
 * [老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTgHO5AkHJS6iN6bnnBMMdHv6E4rabnrC0KwyTRfjad8Ab3IQjbnGvZuQOjDC9t7nKqeroiwcuasJrI/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [HW6](https://github.com/stopraining/LearningNote/tree/master/HW6) 
 ### **🐝Week 16**            
