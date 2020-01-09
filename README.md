@@ -80,8 +80,8 @@ Heap sort & Merge sort
 * [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vQOTMDM-5-OUaGfnLUOFVgefFwSVRplSwnbicp0CXOQrB5H8RM_1Aq8o_4JxHlncEmhjvqk3tzcoB7s/pub?start=false&loop=false&delayms=3000&slide=id.p)
 ### **🍮Week 5**    
 #### QuickSort       
-1.從數列中挑選一個基準點，大於基準的放一邊，小於的放一邊，如此循環最後可完成排序。           
-2.平均時間複雜度O(n㏒n)
+1. 從數列中挑選一個基準點，大於基準的放一邊，小於的放一邊，如此循環最後可完成排序。           
+2. 平均時間複雜度O(n㏒n)
 * [🍳補充連結](http://alrightchiu.github.io/SecondRound/comparison-sort-quick-sortkuai-su-pai-xu-fa.html)
 * [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vSqz8sTxT4xyjgiz-htLvZd7FZ_5ZzgKf60pFEoNLU5S77JxrsGJ2vd15CdxlfLtT3g2aizHP-Ebk9b/pub?start=false&loop=false&delayms=3000&slide=id.p)            
 * [🍳HW1](https://github.com/stopraining/LearningNote/tree/master/HW1)
@@ -89,14 +89,14 @@ Heap sort & Merge sort
 #### Heap Sort       
 1. 將數列以樹狀結構呈現，每一個節點有兩個子節點，若子節點的數比該節點大，則交換位子，直到不用在變動時，將最上層的數抽出來，
 再把最後一個節點的數補上去最  上層，重複比較，直到將所有的數字抽出，完成排序      
-2.平均時間複雜度O(n㏒n)
+2. 平均時間複雜度O(n㏒n)
 * [🍳補充連結](https://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html)
 * [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vRAGwnUvg6BcXoML5u9f4gO6YKcz0vXf7bDnPho_S7mG5D0SBR78djt91RKUPMxqNfkVIcu3l5WCXPh/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [🍳HW2](https://github.com/stopraining/LearningNote/tree/master/HW2)
 ### **🍮Week 7**    
 #### Merge Sort        
 1. 將數列分割成等長的2個數，直到無法再分割(每組只剩一個數)，在合併各組數列，並且由小到大排四每組數列，直到最後合併成一個          
-平均時間複雜度O(n㏒n)
+2. 平均時間複雜度O(n㏒n)
 * [🍳補充連結](https://alrightchiu.github.io/SecondRound/comparison-sort-merge-sorthe-bing-pai-xu-fa.html)
 * [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vToxkEzc1H1RT5MI9G941KQFBC7GO_Efn95wTqXLEdr3LDBSNcQb-M46IOC-_RzZih6IBEwwy3rWQuE/pub?start=false&loop=false&delayms=3000&slide=id.p)           
 * [🍳HW2](https://github.com/stopraining/LearningNote/tree/master/HW2)
