@@ -108,7 +108,7 @@ Heap sort & Merge sort
 講解期末考區塊鏈方案        
 ### **🍮Week 10**      
 #### Binary Search Tree        
-1.二元樹       
+1. 二元樹       
 2. 有新增、刪除、查詢、修改之功能     
 * [🍳補充連結](http://alrightchiu.github.io/SecondRound/binary-search-tree-introjian-jie.html)
 * [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vQgUh73yvSdxAvMH50DHWJ5lsCX8-daMxtoltU9rYW7xCmqYz2A1wOv0Vcx_F9KO5ZUvZBv3IF1TjGi/pub?start=false&loop=false&delayms=3000&slide=id.p)               
@@ -127,14 +127,14 @@ Heap sort & Merge sort
 ### **🍮Week 12**           
 #### Breadth-First Search        
 1. 使用Queue            
-2.平均時間複雜度O(V+E)
+2. 平均時間複雜度O(V+E)
 * [🍳補充連結](https://alrightchiu.github.io/SecondRound/graph-breadth-first-searchbfsguang-du-you-xian-sou-xun.html)
 * [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vSYJYXUXvGAeTZ5fknxj_-EPm3zxgy4ITdImrXzy63Y-iZgs8uwVNmOaZlnx9fUNzsbo8kphvMTa0c4/pub?start=false&loop=false&delayms=3000&slide=id.p)        
 * [🍳HW5](https://github.com/stopraining/LearningNote/tree/master/HW5)
 ### **🍮Week 13**          
 #### Depth-First Search            
-1. 使用Stack      
-2.平均時間複雜度O(V+E)
+1. 使用Stack        
+2. 平均時間複雜度O(V+E)
 * [🍳補充連結](https://alrightchiu.github.io/SecondRound/graph-depth-first-searchdfsshen-du-you-xian-sou-xun.html)
 * [🍳老師上課ppt](https://docs.google.com/presentation/d/e/2PACX-1vTma_vOZyE70O23KWw4I4Y78aAaT5fJSTq7Mae912kCwka_u5ZMWPoo14D86-x-57kZPbb6hAGktSW4/pub?start=false&loop=false&delayms=3000&slide=id.p)        
 * [🍳HW5](https://github.com/stopraining/LearningNote/tree/master/HW5)
