@@ -1,3 +1,5 @@
+## 筆記
+
 * bit count             
        50(十進位)=110010(二進位)                  
        ![image](https://github.com/stopraining/LearningNote/blob/master/pic/numnum.jpg)
