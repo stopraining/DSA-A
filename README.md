@@ -53,35 +53,35 @@ Heap sort & Merge sort
 ### **Week 4**      
 InsertionSort
 ### **Week 5**    
-QuickSort
+QuickSort          
 [HW1](https://github.com/stopraining/LearningNote/tree/master/HW1)
 ### **Week 6**    
-Heap Sort 
+Heap Sort              
 [HW2](https://github.com/stopraining/LearningNote/tree/master/HW2)
 ### **Week 7**    
-Merge Sort
+Merge Sort               
 [HW2](https://github.com/stopraining/LearningNote/tree/master/HW2)
 ### **Week 8**      
 Binary Tree
 ### **Week 9**        
 講解期末考區塊鏈方案
 ### **Week 10**      
-Binary Search Tree
+Binary Search Tree             
 [HW3](https://github.com/stopraining/LearningNote/tree/master/HW3)
 ### **Week 11**            
-Hash Table & Red Black Tree
+Hash Table & Red Black Tree                
 [HW4](https://github.com/stopraining/LearningNote/tree/master/HW4)
 ### **Week 12**           
-Breadth-First Search
+Breadth-First Search             
 [HW5](https://github.com/stopraining/LearningNote/tree/master/HW5)
 ### **Week 13**          
-Depth-First Search
+Depth-First Search            
 [HW5](https://github.com/stopraining/LearningNote/tree/master/HW5)
 ### **Week 14**          
-Minimum Spanning Tree
+Minimum Spanning Tree            
 [HW6](https://github.com/stopraining/LearningNote/tree/master/HW6) 
 ### **Week 15**            
-Shortest Path
+Shortest Path              
 [HW6](https://github.com/stopraining/LearningNote/tree/master/HW6) 
 ### **Week 16**            
 同學區塊鏈作品分享
