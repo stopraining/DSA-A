@@ -1,4 +1,4 @@
-# Welcome to Ting Yu's Learning Note☕
+![photo](https://github.com/stopraining/LearningNote/blob/master/pic/welcome.jpg)
 ## 👩Introduce Myself
 嗨 ~ 我是蘇亭宇~ 我喜歡看電影，最討厭吃紅蘿蔔          
 寫程式對我來說真的是一大挑戰....
